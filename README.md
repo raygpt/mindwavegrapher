@@ -1,5 +1,6 @@
 # processing mindwave grapher
 a brainwave visualizer for the mindwave neurosky eeg headset 
+
 note: parser in progress, program logic incomplete
 
 This is a simple Processing application for graphing changes in brain waves over time. It's designed to read data from a MindWave EEG headset connected via USB.
