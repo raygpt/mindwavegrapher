@@ -20,9 +20,6 @@ The core Processing project. Tested with Processing 3.0.2.
 
 Version 2.2.5 of the ControlP5 GUI Library is included with this project in the /code folder. No installation is necessary.
 
-If you're using this with a hacked MindFlex, you'll need the Arduino Brain Library installed and running on your Arduino. Additional instructions at [frontiernerds.com/brain-hack]](http://www.frontiernerds.com/brain-hack).
-
-
 Contact
 
 Rama Nakib
