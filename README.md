@@ -7,6 +7,8 @@ This is a simple Processing application for graphing changes in brain waves over
 
 It's mostly a proof of concept, demonstrating how to parse serial packets from the Arduino Brain Library, monitor signal strength, etc.
 
+Forked from Erik Mika (https://github.com/kitschpatrol) except for newly-implemented packet parser that does not utilize the Arduino Brain Library. 
+
 BrainGrapher.pde is the main project file. Open this in the Processing PDE to work with the project.
 
 You may need to modfiy the index value in the line serial = new Serial(this, Serial.list()[0], 9600); inside the app's setup() function file depending on which serial / USB port your Arduino is connected to. (Try Serial.list()[1], Serial.list()[2], Serial.list()[3], etc.)
