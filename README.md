@@ -1,4 +1,4 @@
-# processing mindwave grapher
+# Processing-Based Brainwave Grapher
 a brainwave visualizer for the mindwave neurosky eeg headset 
 
 note: parser in progress, program logic incomplete
