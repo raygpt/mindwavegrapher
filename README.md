@@ -5,7 +5,7 @@ note: parser in progress, program logic incomplete
 
 This is a simple Processing application for graphing changes in brain waves over time. It's designed to read data from a MindWave EEG headset connected via USB.
 
-It's mostly a proof of concept, demonstrating how to parse serial packets from the Arduino Brain Library, monitor signal strength, etc.
+It's mostly a proof of concept, demonstrating how to parse packets over a serial USB port, monitor signal strength, etc.
 
 Forked from Erik Mika (https://github.com/kitschpatrol) except for newly-implemented packet parser that does not utilize the Arduino Brain Library. 
 
