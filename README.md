@@ -4,7 +4,7 @@ a brainwave visualizer for the mindwave neurosky eeg headset
 This is a simple Processing application for graphing changes in brain waves over time. It's designed to read data from a MindWave EEG headset connected via USB.
 
 It's mostly a proof of concept, demonstrating how to parse packets over a serial USB port, monitor signal strength, etc.
-Based on a project by [Erik Mika](https://github.com/kitschpatrol) but with a newly-implemented packet parser that does not utilize the Arduino Brain Library. 
+Based on a project by [Eric Mika](https://github.com/kitschpatrol) but with a newly-implemented packet parser that does not utilize the Arduino Brain Library. 
 
 BrainGrapher.pde is the main project file. Open this in the Processing PDE to work with the project.
 
