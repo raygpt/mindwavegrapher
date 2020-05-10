@@ -13,7 +13,7 @@ You may need to modfiy the index value in the line serial = new Serial(this, Ser
 SAFETY: The risks are small, but to be on the safe side you should only plug the Arduino + MindWave combo into a laptop running on batteries alone.
 
 
-Dependencies
+# Dependencies
 
 The core Processing project. Tested with Processing 3.0.2.
 
@@ -21,6 +21,6 @@ Version 2.2.5 of the ControlP5 GUI Library is included with this project in the 
 
 Contact
 
-Rama Nakib
+Ray Nakib
 ramalnkb@gmail.com
 https://github.com/rmnkbofficial
