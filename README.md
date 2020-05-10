@@ -8,7 +8,7 @@ Based on a project by [Eric Mika](https://github.com/kitschpatrol) but with a ne
 
 BrainGrapher.pde is the main project file. Open this in the Processing PDE to work with the project.
 
-You may need to modfiy the index value in the line serial = new Serial(this, Serial.list()[0], 9600); inside the app's setup() function file depending on which serial / USB port you are connected to. (Try Serial.list()[1], Serial.list()[2], Serial.list()[3], etc.)
+You may need to modify the index value in the line serial = new Serial(this, Serial.list()[0], 9600); inside the app's setup() function file depending on which serial / USB port you are connected to. (Try Serial.list()[1], Serial.list()[2], Serial.list()[3], etc.)
 
 SAFETY: The risks are small, but to be on the safe side you should only plug the Arduino + MindWave combo into a laptop running on batteries alone.
 
