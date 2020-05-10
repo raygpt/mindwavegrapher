@@ -19,8 +19,3 @@ The core Processing project. Tested with Processing 3.0.2.
 
 Version 2.2.5 of the ControlP5 GUI Library is included with this project in the /code folder. No installation is necessary.
 
-Contact
-
-Ray Nakib
-ramalnkb@gmail.com
-https://github.com/rmnkbofficial
